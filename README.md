@@ -29,6 +29,7 @@
   - **Cung cấp báo cáo chi tiết**: Ứng dụng sẽ tạo ra các báo cáo về hiệu suất tập trung, bao gồm các thông tin như thời gian tập trung trung bình, số lần mất tập trung, và các yếu tố ảnh hưởng đến sự tập trung. Các báo cáo này sẽ giúp người dùng hiểu rõ hơn về thói quen làm việc của mình và tìm cách cải thiện.
   - **Điều chỉnh kế hoạch**: Ứng dụng có thể tự động điều chỉnh kế hoạch làm việc/học tập dựa trên dữ liệu sóng não thu thập được trong thời gian thực, đảm bảo kế hoạch luôn phù hợp với khả năng tập trung của người dùng.
   ![Research Process](Story.png?raw=true)
+<small>Trong quá trình phát triển FocUs, nhóm chọn thiết kế "Focus Island" vì nó sử dụng một cách tiếp cận trực quan và sinh động với hình ảnh của một hòn đảo để thể hiện trạng thái tập trung của người dùng. Sự thay đổi môi trường trên đảo tương ứng với mức độ tập trung và sự phân tâm của người dùng, giúp họ dễ dàng hiểu và điều chỉnh hành vi. Việc xây dựng công trình trên đảo đại diện cho quá trình hoàn thành công việc, kết hợp với các thông báo nghỉ ngơi và thời điểm tối ưu, tạo nên một giao diện thân thiện và hiệu quả cho đối tượng người dùng là sinh viên và nhân viên văn phòng. Những nhiệm vụ này hấp dẫn vì chúng cung cấp phản hồi liên tục và mang tính cá nhân, giúp người dùng cải thiện tập trung theo cách thú vị và có thể duy trì trong thời gian dài.</small>
 ## Design Research Process
 - **Xác định người dùng mục tiêu:**
   - Nghiên cứu này tập trung vào những người thường xuyên gặp khó khăn trong việc duy trì sự tập trung và mong muốn cải thiện hiệu suất làm việc/học tập.
