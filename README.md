@@ -28,7 +28,7 @@
   - **Nhắc nhở nghỉ ngơi**: Ứng dụng sẽ gửi thông báo nhắc nhở người dùng nghỉ ngơi vào những thời điểm thích hợp để tránh kiệt sức và duy trì năng suất làm việc.
   - **Cung cấp báo cáo chi tiết**: Ứng dụng sẽ tạo ra các báo cáo về hiệu suất tập trung, bao gồm các thông tin như thời gian tập trung trung bình, số lần mất tập trung, và các yếu tố ảnh hưởng đến sự tập trung. Các báo cáo này sẽ giúp người dùng hiểu rõ hơn về thói quen làm việc của mình và tìm cách cải thiện.
   - **Điều chỉnh kế hoạch**: Ứng dụng có thể tự động điều chỉnh kế hoạch làm việc/học tập dựa trên dữ liệu sóng não thu thập được trong thời gian thực, đảm bảo kế hoạch luôn phù hợp với khả năng tập trung của người dùng.
-  ![Research Process](https://github.com/username/repository-name/blob/main/image.png )
+  ![Research Process](Story.png)
 ## Design Research Process
 - **Xác định người dùng mục tiêu:**
   - Nghiên cứu này tập trung vào những người thường xuyên gặp khó khăn trong việc duy trì sự tập trung và mong muốn cải thiện hiệu suất làm việc/học tập.
