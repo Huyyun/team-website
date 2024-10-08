@@ -1,7 +1,18 @@
 # Team Member
-| ![NTVHuy](NTVH.png?raw=true)  | ![NNBac](NNB.png?raw=true)  | ![NHoang](NH.png?raw=true)   | ![LXQuang](LXQ.png?raw=true) |
-| :---------------------------: | :-------------------------: | :--------------------------: | :--------------------------: |
-|      Nguyễn Thái Việt Huy     |        Nguyễn Như Bắc       |         Nguyễn Hoàng         |         Lê Xuân Quang        |
+
+<table>
+  <tr>
+    <td><img src="NTVH.png" alt="Thành viên 1" width="200" /></td>
+    <td><img src="NNB.png" alt="Thành viên 2" width="200" /></td>
+    <td><img src="NH.png" alt="Thành viên 3" width="200" /></td>
+  </tr>
+  <tr>
+    <td>Thành viên 1</td>
+    <td>Thành viên 2</td>
+    <td>Thành viên 3</td>
+  </tr>
+</table>
+
 
 ## Team Info
 - **Team Name**: Group 5
