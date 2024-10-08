@@ -17,9 +17,12 @@
 
 
 ## Team Info
-- **Team Name**: Group 5
-- **Members**: Alice, Bob, Charlie
-- **Project**: Focus Island
+- **Team Name**: Group 6
+- **Members**: Nguyễn Thái Việt Huy (Leader) - 21012500
+               Nguyễn Như Bắc - 
+               Nguyễn Hoàng -
+               Lê Xuân Quang -
+- **Project**: Focus - Phát triển khả năng tập trung
 
 ## Problem and Design Overview
 We are solving the problem of maintaining focus in the digital age. Our design uses a metaphor of an island to represent the user's focus, integrating planning, break reminders, and reports.
