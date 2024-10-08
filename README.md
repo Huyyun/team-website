@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td><img src="NTVH.png" alt="Thành viên 1" width="100" height="100" /></td>
-    <td><img src="NNB.png" alt="Thành viên 2" width="100" height="100"/></td>
-    <td><img src="NH.png" alt="Thành viên 3" width="100" height="100"/></td>
+    <td><img src="NTVH.png" alt="Thành viên 1" width="200" height="200" /></td>
+    <td><img src="NNB.png" alt="Thành viên 2" width="200" height="200"/></td>
+    <td><img src="NH.png" alt="Thành viên 3" width="200" height="200"/></td>
   </tr>
   <tr>
     <td>Thành viên 1</td>
