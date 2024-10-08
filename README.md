@@ -1,4 +1,7 @@
-# Team Website
+# Team Member
+| ![NTVHuy](link_ảnh_1)         | ![NNBac](link_ảnh_2)        | ![NHoang](link_ảnh_3)        | ![LXQuang](link_ảnh_3)       |
+| :---------------------------: | :-------------------------: | :--------------------------: | :--------------------------: |
+|      Nguyễn Thái Việt Huy     |        Nguyễn Như Bắc       |         Nguyễn Hoàng         |         Lê Xuân Quang        |
 
 ## Team Info
 - **Team Name**: Group 5
