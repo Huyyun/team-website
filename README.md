@@ -1,5 +1,5 @@
 # Team Member
-| ![NTVHuy](NTVHuy.JPG)         | ![NNBac](NNBắc.jpg)         | ![NHoang](NH.jpg)            | ![LXQuang](LXQ.png)          |
+| ![NTVHuy](NTVH.png)           | ![NNBac](NNB.png)           | ![NHoang](NH.png)            | ![LXQuang](LXQ.png)          |
 | :---------------------------: | :-------------------------: | :--------------------------: | :--------------------------: |
 |      Nguyễn Thái Việt Huy     |        Nguyễn Như Bắc       |         Nguyễn Hoàng         |         Lê Xuân Quang        |
 
