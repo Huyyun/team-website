@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td><img src="NTVH.png" alt="Thành viên 1" width="250" height="250" /></td>
-    <td><img src="NNB.png" alt="Thành viên 2" width="250" height="250"/></td>
-    <td><img src="NH.png" alt="Thành viên 3" width="250" height="250"/></td>
-    <td><img src="LXQ.png" alt="Thành viên 3" width="250" height="250"/></td>
+    <td><img src="NTVH.png" alt="Thành viên 1" width="150" height="150" /></td>
+    <td><img src="NNB.png" alt="Thành viên 2" width="150" height="150"/></td>
+    <td><img src="NH.png" alt="Thành viên 3" width="150" height="150"/></td>
+    <td><img src="LXQ.png" alt="Thành viên 3" width="150" height="150"/></td>
   </tr>
   <tr>
     <td>Nguyễn Thái Việt Huy</td>
