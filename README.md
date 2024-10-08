@@ -5,11 +5,13 @@
     <td><img src="NTVH.png" alt="Thành viên 1" width="300" height="300" /></td>
     <td><img src="NNB.png" alt="Thành viên 2" width="300" height="300"/></td>
     <td><img src="NH.png" alt="Thành viên 3" width="300" height="300"/></td>
+    <td><img src="LXQ.png" alt="Thành viên 3" width="300" height="300"/></td>
   </tr>
   <tr>
-    <td>Thành viên 1</td>
-    <td>Thành viên 2</td>
-    <td>Thành viên 3</td>
+    <td>Nguyễn Thái Việt Huy</td>
+    <td>Nguyễn Như Bắc</td>
+    <td>Nguyễn Hoàng</td>
+    <td>Lê Xuân Quang</td>
   </tr>
 </table>
 
